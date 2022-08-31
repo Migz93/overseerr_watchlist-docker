@@ -1,0 +1,6 @@
+#Plex username
+username = ""
+#Plex token
+plex_token = ""
+#Overseerr users to sync requests to above plex account.
+overseerr_users = []
