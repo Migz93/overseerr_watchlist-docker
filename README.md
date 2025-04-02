@@ -43,3 +43,5 @@ https://towardsdatascience.com/intro-to-webhooks-and-how-to-receive-them-with-py
 
 # Notes
 Plex Discover is not as full a source of information as for example Trakt. So there is a chance with less popular media that Plex Discover does not have it, which would mean this script would be unable to add it to your watchlist.
+
+Test
